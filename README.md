@@ -62,15 +62,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mang-Natty&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Mang-Natty&show_icons=true&hide_border=true" alt="Nathaniel's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mang-Natty/Mang-Natty/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/Mang-Natty/Mang-Natty/main/profile-summary-card-output/default/3-stats.svg" alt="Nathaniel's GitHub stats" width="49%" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mang-Natty&layout=compact&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mang-Natty&layout=compact&hide_border=true" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mang-Natty/Mang-Natty/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/Mang-Natty/Mang-Natty/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" width="49%" />
   </picture>
 </p>
 
